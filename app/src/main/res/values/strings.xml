@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InVoidassignment</string>
+
+    <string name="permission_settings_msg">Click on permission and check storage and camera permission for app to continue.</string>
+    <string name="go_into_permissions">Please go into \'Permissions\',grant all the required permissions and Open the application again!</string>
+    <string name="grant_permission_toast">Please grant the permissions for this app and Come back again soon.</string>
+    <string name="some_permissions_needed">Some permissions are needed for this app to go further. Do you want to grant those permissions?</string>
+    <string name="grant_storage_permission">Please grant storage permission to access the storage on this device</string>
+
+</resources>
